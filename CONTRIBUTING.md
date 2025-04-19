@@ -10,3 +10,5 @@ Thank you for your interest in contributing to this project! We welcome contribu
      ```bash
      git clone https://github.com/<your-username>/sentiment_test.git
      cd sentiment_test
+
+- Use the [pull request template](.github/pull_request_template.md) to provide details about your changes.
