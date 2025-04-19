@@ -1,3 +1,5 @@
+[![CI Pipeline](https://github.com/kylerabie/sentiment_test/actions/workflows/ci.yml/badge.svg)](https://github.com/kylerabie/sentiment_test/actions/workflows/ci.yml)
+
 # Cryptocurrency Sentiment Analysis Pipeline
 
 Analyzes sentiment of cryptocurrency-related posts using NLP (transformers, NLTK) and PySpark for scalable data processing.
