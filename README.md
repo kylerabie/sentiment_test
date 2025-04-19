@@ -31,6 +31,10 @@ Analyzes sentiment of cryptocurrency-related posts using NLP (transformers, NLTK
 ## Contributing
 
 Want to contribute? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting code, reporting issues, or suggesting features.
+
+## Code of Conduct
+
+We are committed to fostering a welcoming community. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for our community standards and expectations.
   
 ## License
 
