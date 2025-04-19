@@ -14,3 +14,4 @@ Thank you for your interest in contributing to this project! We welcome contribu
 - Use the [pull request template](.github/pull_request_template.md) to provide details about your changes.
 
 - **Issues**: Use the [bug report](../.github/ISSUE_TEMPLATE/bug_report.md) or [feature request](../.github/ISSUE_TEMPLATE/feature_request.md) templates when opening issues.
+- Code is automatically linted using `flake8` via the [Linting workflow](../.github/workflows/lint.yml) on push and pull requests.
