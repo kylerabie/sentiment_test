@@ -27,6 +27,10 @@ Analyzes sentiment of cryptocurrency-related posts using NLP (transformers, NLTK
 - **Run**:
   ```bash
   ./scripts/backup_pipeline.sh
+
+## Contributing
+
+Want to contribute? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting code, reporting issues, or suggesting features.
   
 ## License
 
