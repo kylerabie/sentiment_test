@@ -15,3 +15,4 @@ Thank you for your interest in contributing to this project! We welcome contribu
 
 - **Issues**: Use the [bug report](../.github/ISSUE_TEMPLATE/bug_report.md) or [feature request](../.github/ISSUE_TEMPLATE/feature_request.md) templates when opening issues.
 - Code is automatically linted using `flake8` via the [Linting workflow](../.github/workflows/lint.yml) on push and pull requests.
+- Unit tests are run automatically using `pytest` via the [Unit Tests workflow](../.github/workflows/test.yml) on push and pull requests. Add tests in the `tests/` directory.

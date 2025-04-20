@@ -2,3 +2,5 @@
 crypto_pipeline_backups/
 data/
 *.ipynb
+__pycache__/
+*.pyc
