@@ -18,3 +18,4 @@ Thank you for your interest in contributing to this project! We welcome contribu
 - Unit tests are run automatically using `pytest` via the [Unit Tests workflow](../.github/workflows/test.yml) on push and pull requests. Add tests in the `tests/` directory.
 - **Dependencies**: Dependencies are managed via `requirements.txt` and updated automatically by [Dependabot](../.github/dependabot.yml). Review and merge Dependabot PRs to keep packages current.
 - **Pre-Commit Hooks**: Install  () and run  to enable local linting and formatting checks before commits. See [pre-commit-config.yaml](../.pre-commit-config.yaml).
+- **EditorConfig**: Use an editor with [EditorConfig](https://editorconfig.org/) support (e.g., VS Code) to apply consistent formatting (e.g., 4-space indents for Python). See [.editorconfig](../.editorconfig).
