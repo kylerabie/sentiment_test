@@ -17,3 +17,4 @@ Thank you for your interest in contributing to this project! We welcome contribu
 - Code is automatically linted using `flake8` via the [Linting workflow](../.github/workflows/lint.yml) on push and pull requests.
 - Unit tests are run automatically using `pytest` via the [Unit Tests workflow](../.github/workflows/test.yml) on push and pull requests. Add tests in the `tests/` directory.
 - **Dependencies**: Dependencies are managed via `requirements.txt` and updated automatically by [Dependabot](../.github/dependabot.yml). Review and merge Dependabot PRs to keep packages current.
+- **Pre-Commit Hooks**: Install  () and run  to enable local linting and formatting checks before commits. See [pre-commit-config.yaml](../.pre-commit-config.yaml).

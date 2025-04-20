@@ -133,3 +133,4 @@ websocket-client==1.8.0
 widgetsnbextension==4.0.14
 flake8>=7.0.0
 pytest>=8.0.0
+pre-commit>=3.0.0
